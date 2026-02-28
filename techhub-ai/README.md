@@ -1,11 +1,13 @@
 
 📖 About the Project
 
+
 STARTERKIT – Tech for All is a beginner-friendly centralized web platform designed to simplify access to essential AI and non-AI tools required for building digital products.
 Many beginners struggle to identify where to start when entering the tech ecosystem. Tools for coding, designing, presentation creation, and app development are scattered across multiple platforms, creating confusion and limiting inclusion in technology.
 StarterKit solves this problem by organizing and categorizing these tools into a single, structured, and accessible platform.
 
 🎯 Problem Statement
+
 
 How can we create genuinely inclusive experiences in technology?
 Beginners often face:
@@ -14,7 +16,9 @@ Lack of direction
 Scattered resources
 Accessibility barriers
 This reduces participation and inclusion in tech spaces.
+
 💡 Our Solution
+
 StarterKit provides:
 🧰 Centralized access to beginner-friendly tools
 🤖 Categorized AI & Non-AI tools

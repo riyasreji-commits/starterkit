@@ -1,36 +1,66 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
-
-First, run the development server:
-
-```bash
+📖 About the Project
+StarterKit – Tech for All is a beginner-friendly centralized web platform designed to simplify access to essential AI and non-AI tools required for building digital products.
+Many beginners struggle to identify where to start when entering the tech ecosystem. Tools for coding, designing, presentation creation, and app development are scattered across multiple platforms, creating confusion and limiting inclusion in technology.
+StarterKit solves this problem by organizing and categorizing these tools into a single, structured, and accessible platform.
+🎯 Problem Statement
+How can we create genuinely inclusive experiences in technology?
+Beginners often face:
+Information overload
+Lack of direction
+Scattered resources
+Accessibility barriers
+This reduces participation and inclusion in tech spaces.
+💡 Our Solution
+StarterKit provides:
+🧰 Centralized access to beginner-friendly tools
+🤖 Categorized AI & Non-AI tools
+🎨 Design & Creative resources
+📊 Presentation & productivity tools
+🔗 Direct access links for instant usage
+The platform reduces entry barriers and encourages more people to start creating confidently.
+🗂 Tool Categories Included
+🤖 AI Tools
+Tools powered by artificial intelligence to assist in content creation, coding, and design.
+🧰 Development Tools
+Platforms and editors for building websites and mobile applications.
+🎨 Design Tools
+Resources for poster creation, UI design, and visual development.
+📊 Presentation Tools
+Tools for creating slides and professional presentations.
+🛠 Tech Stack
+Next.js
+React
+JavaScript
+CSS
+Vercel (Deployment)
+🚀 Deployment
+This project is deployed using Vercel, making it accessible globally through a public link.
+Live URL: https://starterkit-wheat.vercel.app�
+💻 Running the Project Locally
+Clone the repository
+Open in VS Code
+Install dependencies:
+Bash
+Copy code
+npm install
+Run development server:
+Bash
+Copy code
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Open:
+Copy code
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+http://localhost:3000
+🌱 Future Enhancements
+🔍 Search & filtering system
+🌙 Dark mode
+♿ Accessibility enhancements
+🔤 Inclusive language checker
+⭐ Tool ratings & beginner guidance
+👤 User personalization
+🎯 Vision
+To build a structured and inclusive ecosystem where anyone — regardless of background or experience — can confidently begin their journey in technology.
+👩‍💻 Developed By
+Riya S Reji
+Hackathon Project – Inclusion in Tech
